@@ -1,7 +1,7 @@
 # Determinar la densidad de un gel formado por dos segmentos #
 El primer script entrega la densidad de segmentos en capas concéntricas del nanogel teniendo en 
 cuenta su centro de masa del mismo.A continuación se mencionan con una breve explicación las funciones 
-presentes en los scripts discretizacion radial.py y densepL146.py
+presentes en los scripts discretizacion_radial.py y den-sep-L146.py
 
 -def reader_outgro(filename): Lee desde un file.gro que contiene todas las configuraciones de la
 simulación y guarda en una lista de lista cada una de ellas y en otra variable, la longitud de un
