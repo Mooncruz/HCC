@@ -1,0 +1,2 @@
+*.lammpstrj filter=lfs diff=lfs merge=lfs -text
+*.gro filter=lfs diff=lfs merge=lfs -text
